@@ -1,6 +1,6 @@
 # bhumi
 
-BHUMI SIH project
+BHUMI project
 
 ## Getting Started
 
